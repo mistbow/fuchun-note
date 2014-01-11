@@ -1,0 +1,4 @@
+fuchun-note
+===========
+
+everyday note
